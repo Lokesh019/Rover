@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="579d0f54-dc03-4fe5-bf72-94bfe4473131" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/checkGitFileUpload.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkGitFileUpload.java" beforeDir="false" afterPath="$PROJECT_DIR$/checkGitFileUpload.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
